@@ -308,3 +308,6 @@ as well as wikipedia and other websites.
 I hope reading this helped you figure out Fourier Transforms.
 After this introduction that covers various topics, i recommend
 reading about Nyquist Frequency and Nyquist-Shannon theorem. It's also a good idea to take a look at Fourier series and Fourier transform in general to get the bigger picture and read some interesting history why FFT was invented by Cooley and Tookey. More about history of FFT is covered in Veritasium video in link provided in Resources section. **Thank you!!!**
+
+**License**  
+This project is under dual license: MIT and GNU General Public License v3.0
