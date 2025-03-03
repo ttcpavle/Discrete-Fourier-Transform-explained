@@ -1,0 +1,6 @@
+bin/
+.classpath
+.project
+.settings/
+fft.html
+reconstructed.html
